@@ -2,6 +2,8 @@
 
 A hardware monitoring display project for ESP32-C3 that shows CPU and GPU metrics on a ST7789 TFT display using LVGL graphics library.
 
+![IMG_20251106_211236](https://github.com/user-attachments/assets/21f8f395-d08b-4f7e-91cd-56e46d6ed51a)
+
 ## Overview
 
 Real-time hardware monitor with three circular gauge widgets displaying:
